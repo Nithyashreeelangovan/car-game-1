@@ -1,2 +1,1 @@
-# car-game-1
-Whitehat Jr project
+# c39-Teacher-reference
